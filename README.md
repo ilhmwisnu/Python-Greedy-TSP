@@ -1,6 +1,5 @@
 # Python - Traveling Salesman Problem 
 This code is using Greedy Approach
-
 This is the graph that i used for example.  
 ![Graph Illustration](/Euler12-300x225.png)
 
